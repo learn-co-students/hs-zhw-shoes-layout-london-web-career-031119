@@ -24,4 +24,36 @@
 
 /* Positioning Classes */
 
+.row {
+  display: flex; 
+}
 
+.featuredbrands {
+  float: left;
+  width: 66%;
+  margin: 0 5px 10px 0;
+}
+
+.shoearchive {
+  float: left;
+  width: 32%;
+  margin: 0 0 10px 10px;
+}
+
+.col-left {
+  float: left;
+  width: 32%;
+  margin: 10px 0 0;
+}
+
+.col-middle {
+  float: left;
+  width: 32%;
+  margin: 10px 17px 0 17px;
+}
+
+.col-right {
+  float: left;
+  width: 32%;
+  margin: 10px 0 0 0;
+}
